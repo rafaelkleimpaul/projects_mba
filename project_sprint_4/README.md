@@ -45,7 +45,7 @@ Após executar o comando, a aplicação será disponibilizada localmente pelo St
 
 A aplicação será publicada no Render.
 
-**URL:** será adicionada após o deploy.
+**URL:** https://projects-mba-p50s.onrender.com/
 
 ## Autor
 
